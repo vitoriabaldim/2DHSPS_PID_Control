@@ -1,12 +1,3 @@
-'''
-    -> Proxima Temperatura      OK
-    -> Controle Proporcional    OK
-    -> Mudança de SetPoint      OK
-    -> Controle Integral        OK
-    -> Condições de Parada      OK
-    -> Controle Derivativo      OK      
-'''
-
 #Bibliotecas
 import numpy as np
 import matplotlib.pyplot as plt
